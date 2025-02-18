@@ -1,0 +1,11 @@
+objectid,filename,youtubeid,title,format,description,creator,recipient,date,date-is-approximate?,item_information,subject,location,latitude,longitude,related_publication,publisher-digital,source,findingaid,original-identifier,identifier,rights,rightsstatement,type,language,relation
+ama_1,bull_fresco.png,,Bull Fresco,image/png,A wall fresco depicting Minoan people and a sacred bull,,,,,,Fresco; Animal; Art,"Knosses, Greece",35.2985,25.1596,,,,,,,,,,,
+ama_2,art_fresco.jpg,,Art Fresco,image/jpg,An abstract wall art with vivid colors,,,,,,Fresco; Art,"Knosses, Greece",35.2985,25.1596,,,,,,,,,,,
+ama_3,city_fresco.jpg,,City Fresco,image/jpg,A detailed depiction of Knossos,,,,,,Fresco; Building; City; Art,"Knosses, Greece",35.2985,25.1596,,,,,,,,,,,
+ama_4,palace_map.jpg,,Palace Map,image/jpg,Artist rendering of the Knossos Palace,,,,,,Building; City,"Knosses, Greece",35.2985,25.1596,,,,,,,,,,,
+ama_5,room_rendering.jpg,,Room Rendering,image/jpg,Artist rendering of a room in Knossos,,,,,,Building; City,"Knosses, Greece",35.2985,25.1596,,,,,,,,,,,
+ama_6,street_rendering.jpg,,Street Rendering,image/jpg,Artist rendering of a street in Knossos,,,,,,Building; City,"Knosses, Greece",35.2985,25.1596,,,,,,,,,,,
+ama_7,ruins.png,,Ruins,image/png,Modern-day ruins of Knossos,,,,,,Buildings; Modern,"Knosses, Greece",35.2985,25.1596,,,,,,,,,,,
+ama_8,,VxnfIe4zgO0,Minoan Civilization,video/mp4,Video describing Bronze Age Minoan culture and society,World History Encylopedia,,2020-08-10,,,History; Culture,"Knosses, Greece",35.2985,25.1596,,,,,,,,,,,
+ama_9,,v8TuOrsLdt8,Minoan Art,video/mp4,Video describing Minoan fascination with art,Tiny Epics,,2020-05-20,,,History; Art,"Knosses, Greece",35.2985,25.1596,,,,,,,,,,,
+ama_10,,7w_cs-sFBeI,Minoan Fashion,video/mp4,Video describing the style of Minoan fashion with modern recreations,"Viktoria, Daisy",,2021-01-21,,,History; Fashion,"Knosses, Greece",35.2985,25.1596,,,,,,,,,,,
